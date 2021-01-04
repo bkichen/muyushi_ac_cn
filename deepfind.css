@@ -1,0 +1,195 @@
+body {
+	margin: 0px;
+	color:#000000;
+	font-family:"宋体";
+	font-size:12px;
+	line-height:24px;
+}
+a:link {
+	text-decoration: none;
+	color: none;
+}
+a:visited {
+	text-decoration: none;
+    color: none;
+}
+a:hover {
+	text-decoration: none;
+	color: none;
+}
+a:active {
+	text-decoration: none;
+	color: none;
+}
+form {
+	margin: 0px;
+	padding: 0px;
+}
+.blue12 { 
+	font-size: 12px;
+	line-height: 25px;
+	color: #1E8CD2;
+}
+.blue12top {
+	font-size: 12px;
+	line-height: 22px;
+	color: #006C9E;
+}
+.hui12 {
+	font-size: 12px;
+	line-height: 25px;
+	color: #2E2E2E;
+}
+.newslb {       
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.gglb {       
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.cplb {         
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.cpmc {        
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.cpmc1 {        
+	font-size: 12px;
+	line-height: 24px;
+	color: #ffffff;
+}
+.hui14 {
+	font-size: 14px;
+	line-height: 25px;
+	color: #000000;
+}
+.cpbt {        
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.cpzw {       
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.newsbt {      
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.newszw {      
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.zw {     
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.liuyan {      
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.fbliuyan {      
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.green12 {
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.cplbmc {     
+	font-size: 12px;
+	line-height: 24px;
+	font-weight:bolder;
+	color: #000000;
+}
+.fanye { 
+	font-size: 12px;
+	line-height: 25px;
+	color: #000000;
+}
+.green12dh {
+	font-size: 12px;
+	line-height: 25px;
+	color: #CEEFEC;
+}
+.red12 {
+	font-size: 12px;
+	line-height: 25px;
+	color: #C01F25;
+}
+.or12 {
+	font-size: 12px;
+	line-height: 25px;
+	color: #D3841E;
+}
+.newslbtime { 
+	font-size: 12px;
+	line-height: 24px;
+	color: #666666;
+}
+td {
+	font-size: 12px;
+	line-height: 25px;
+	color: #2E2E2E;
+	text-decoration: none;
+}
+.wbk {
+	line-height: 22px;
+	border: 1px solid #9D9999;
+}
+.bk {
+	border: 1px solid #DC890C;
+}
+.lyhfbk {
+	border: 1px dashed #999999;
+}
+.title { 
+    font-family:"宋体";
+	font-size: 14px;
+	line-height: 24px;
+    letter-spacing:6px;
+	font-weight:bolder;
+	color: #000000;
+}
+.title2 { 
+    font-family:"宋体";
+	font-size: 14px;
+	line-height: 24px;
+    letter-spacing:6px;
+	font-weight:bolder;
+	color: #8D0000;
+}
+.main { 
+    font-family:"宋体";
+	font-size: 12px;
+	line-height: 24px;
+	color: #000000;
+}
+.title1 { 
+    font-family:"宋体";
+	font-size: 14px;
+	line-height: 24px;
+	letter-spacing:6px;
+	font-weight:bolder;
+	color: #ffffff;
+}
+.foot { 
+    font-family:"宋体";
+	font-size: 12px;
+	line-height: 24px;
+	color: #ffffff;
+}
